@@ -1,0 +1,63 @@
+Blinkit Sales Analysis Dashboard
+📊 Project Overview
+
+This project analyzes Blinkit's sales and customer purchasing behavior to understand product performance, revenue trends, and customer preferences. The goal is to transform raw sales data into meaningful insights using data analytics and visualization techniques.
+
+🎯 Objectives
+
+Analyze sales performance and revenue trends
+
+Identify top-performing products and categories
+
+Understand customer purchasing patterns
+
+Track sales distribution across different outlet types
+
+Build an interactive business intelligence dashboard
+
+🛠 Tools & Technologies
+
+Power BI – Data visualization and dashboard creation
+
+Excel / CSV – Data source
+
+
+🔎 Data Analysis Process
+
+Data Cleaning
+
+Removed duplicates and handled missing values
+
+Standardized data formats
+
+Exploratory Data Analysis (EDA)
+
+Analyzed sales distribution
+
+Identified top product categories
+
+Evaluated outlet performance
+
+Dashboard Development
+
+Created KPIs and sales metrics
+
+Built interactive charts and filters
+
+Designed a user-friendly dashboard layout
+
+📈 Key Dashboard Metrics
+
+Total Sales
+
+Average Sales
+
+Number of Items Sold
+
+Average Rating
+
+Sales by Outlet Type
+
+Sales by Product Category
+
+Sales by Location
